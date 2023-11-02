@@ -1,4 +1,4 @@
-# Hello, I'm [Matías E. González]! 👋
+# Hello, I'm Matías E. González! 👋
 
 ## About Me
 I'm an undergradute in physics at the University of Buenos Aires and a student related to code focused on cybersecurity and data base at the UTN. My focus lies in utilizing data analytics tools to better understand physical phenomena and uncover patterns in experimental data.
